@@ -1,1 +1,4 @@
-print("test1","name")      
+
+def test1():
+    print("test1")    
+test1()
