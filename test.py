@@ -1,1 +1,1 @@
-print("test123","name")
+print("test123","name","age")
